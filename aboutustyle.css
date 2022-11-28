@@ -309,11 +309,7 @@ border-bottom: 1px solid #999; */
 }
 
 .content-box{
-	padding: 15px 20px;
-	margin: auto;
-	position: absolute;
-	display: flex;
 	align-items: center;
-	width: 70%;
-	justify-content: center;
+	width: 80%;
+
 }
