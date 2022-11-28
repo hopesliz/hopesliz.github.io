@@ -309,5 +309,6 @@ border-bottom: 1px solid #999; */
 }
 
 .content-box{
+	align-items: center;
 width: 70%;
 }
