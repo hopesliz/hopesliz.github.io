@@ -309,7 +309,8 @@ border-bottom: 1px solid #999; */
 }
 
 .content-box{
-	margin-left: 20px;
+	padding: 15px 20px;
+	margin: auto;
 	position: absolute;
 	display: flex;
 	align-items: center;
